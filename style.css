@@ -102,6 +102,9 @@ body {
     text-align: center;
     justify-items: center;
   }
+  .home .htext a {
+    margin-right: 0px;
+  }
 }
 
 /* Education */
