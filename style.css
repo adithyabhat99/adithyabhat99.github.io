@@ -45,7 +45,7 @@ body {
 }
 @media screen and (max-width: 825px) {
   .topnav {
-    margin-top: 10px;
+    margin-top: 0px;
   }
   #tohide {
     display: none;
