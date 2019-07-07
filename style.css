@@ -47,6 +47,9 @@ body {
   .topnav {
     margin-top: 10px;
   }
+  .topnav a{
+    margin-left:0px;
+  }
   #tohide {
     display: none;
   }
@@ -97,6 +100,7 @@ body {
 @media screen and (max-width: 825px) {
   .home {
     grid-template-columns: 1fr;
+    margin-left: 0px;
     text-align: center;
     justify-items: center;
   }
