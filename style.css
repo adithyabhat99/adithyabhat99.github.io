@@ -130,7 +130,7 @@ body {
 
 /* Projects */
 #projects {
-  width: 100%;
+  width: 130%;
   background-color: #55bcc9;
 }
 .projects {
@@ -170,7 +170,7 @@ body {
 
 /* Technical */
 #technical {
-    width: 100%;
+    width: 130%;
     margin-top:0px;
     padding-bottom: 100px;
     background-color: #55bcc9;
